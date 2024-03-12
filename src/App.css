@@ -1,0 +1,29 @@
+*,
+*:after,
+*:before{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.gjs-cvs-canvas {
+  width: 100%;
+  top: 0
+}
+
+.gjs-pn-panel {
+  position:relative;
+}
+.gjs-one-bg {
+  background-color: white;
+}
+
+.gjs-two-color {
+  color: #138e99;
+}
+
+.gjs-three-bg{
+  background-color: #a8f8ff2c;
+}
